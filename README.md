@@ -1,7 +1,6 @@
 ### Hello!!! 👋👋👋
 
-- 🔭 I’m currently working on consolidating ML Platform at [Mercari, Japan](https://careers.mercari.com/).
-- 🌱 I’m currently learning continuous integration and continuous delivery in depth.
+- 🔭 I’m currently leading on consolidating ML Platform at [Mercari, Japan](https://careers.mercari.com/).
 - 👯 I’m looking to collaborate with [kubeflow](https://www.kubeflow.org/) community to build world-class ML Platform.
 - 💬 Ask me about ML models lifecycle, training, serving at scale.
 - ⚡ Fun fact: Bullish Trader, Poker shark.
